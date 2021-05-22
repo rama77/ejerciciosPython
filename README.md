@@ -4,3 +4,4 @@
 
 3) ejecutar el comando git clone https://github.com/rama77/ejerciciosPython
 
+4) para activar el virtualenv e python ejecutar "source p1/bin/activate"
